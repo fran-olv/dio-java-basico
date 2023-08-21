@@ -1,3 +1,4 @@
+package edu.fran.primeirasemana;
 public class Ensinamentos {
     public static void main(String[] args) {
         System.out.println("Olá turma, sejam bem vindos!");
